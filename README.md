@@ -2,7 +2,6 @@
 <p align = "center">
 <img class = "center" width = 70% src="data/custom/image1.jpg">
 </p>
-<p align = "center">This repository is a project under.</p>
 
 ## Overview
 Recently, Meghalaya Home Minister James P.K. Sangma told the Assembly that around 1.7 lakh vehicles pass through Shillong during peak hours and around 93,000 on a normal day. According to a study by the Boston Consulting Group, India’s biggest cities are losing approximately US$22 billion (Rs. 1,62,200 crore) annually due to traffic congestion. Due to narrow roads and a large number of vehicles per capita, frequent traffic congestion occurs in Shillong. It leads to wastage of time for commuters, employees, students. Blocked traffic may interfere with the passage of emergency vehicles (eg. Ambulance, Army/Police Vehicle, etc.). Higher chance of collisions due to tight spacing and constant stopping-and-going.
