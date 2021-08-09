@@ -47,8 +47,6 @@ python train.py
 tensorboard --logdir=PATH_WHERE_TENSORBOARD_LOGS_ARE_SAVED
 ```
 
-<img class = "center" src="data/custom/loss_curve.png">
-
 ## Test
 Put your test data in ```data/samples/test/``` then run the following command.
 ```
